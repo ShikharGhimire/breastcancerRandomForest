@@ -18,5 +18,5 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-
+Feel free to message me in Linkedin if you have any questions: https://www.linkedin.com/in/shikhar-ghimire-69a571151/
 
