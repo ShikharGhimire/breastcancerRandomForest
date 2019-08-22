@@ -1,5 +1,5 @@
 # breastcancerRandomForest
-Detecting and classifying breast cancer in patients using random forest regression(Visualisation included)
+Detecting and classifying breast cancer in patients using random forest classification(Visualisation included)
 Dataset is from kaggle:
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 Attribute Information:
